@@ -1,0 +1,8 @@
+*.log
+*.pyc
+.env
+.vagrant
+MANIFEST
+build
+cheat.egg-info
+dist
