@@ -9,6 +9,13 @@ Be warned that I will tear this down if I get a request from Chris.
 Sincerely,
 Ross
 
+## Note to self:
+
+To install, use pipx:
+```
+pipx install "git+https://github.com/f1redf0x/cheat.git"
+```
+
 [![PyPI](https://img.shields.io/pypi/v/cheat.svg)](https://pypi.python.org/pypi/cheat/)
 
 cheat
