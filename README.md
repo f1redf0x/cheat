@@ -1,3 +1,14 @@
+# WARNING:
+
+THIS PROGRAM DOESN'T BELONG TO ME.
+
+The original cheat program was written in python and used to be stored here: https://github.com/chrisallenlane/cheat. The owner chris allen lane, hallowed be his name, decided to go a different way with his program and rewrote it in GO. I personally prefer python and I've become quite fond of version 2.5.1, which is the version on pypi and the version that I've read through and trust. Due to the risk of supply-chain attacks occurring on abandoned repos, I feel that cheat 2.5.1 is at risk of being hijacked by a malicious maintainer. As such, I've copied the tar of the original and stored it here for personal use where I will install it with pipx. I do not advise anyone but me to use this program, but I will leave it here in case someone wants to fork the old version. 
+
+Be warned that I will tear this down if I get a request from Chris. 
+
+Sincerely,
+Ross
+
 [![PyPI](https://img.shields.io/pypi/v/cheat.svg)](https://pypi.python.org/pypi/cheat/)
 
 cheat
